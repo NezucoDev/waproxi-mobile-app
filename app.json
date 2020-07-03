@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "WAProxi",
+    "slug": "WAProxi",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#bfd1e9"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 1000
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Want to send yourself a reminder on WhatsApp? Or want to market your great product/solution on WhatsApp?\nIf yes, then WAProxi is just what you are looking for."
+  }
+}
